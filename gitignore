@@ -1,0 +1,10 @@
+# Ignore Power BI cache and temp files
+*.pbix~*
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+.cache/
+__pycache__/
+.ipynb_checkpoints/
+.env
